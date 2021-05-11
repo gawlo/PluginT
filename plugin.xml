@@ -24,7 +24,7 @@
             </feature>
         </config-file>
 
-        <source-file src="src/android/MyCordovaPlugin.java" target-dir="src/android/MyCordovaPlugin" />
+        <source-file src="src/android/MyCordovaPlugin.java" target-dir="src/android/" />
     </platform>
 
     <!-- ios -->
